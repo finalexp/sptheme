@@ -10,7 +10,7 @@
  <body <?php body_class(); ?>>
        <header class="site-header">
     <div class="container">
-      <h1 class="school-logo-text float-left"><a href="<?php echo esc_url(site_url())?>"><strong>Swedish</strong> Paleo</a></h1>
+      <h1 class="school-logo-text float-left"><a href="<?php echo esc_url(site_url())?>"><strong>Test</strong> Project</a></h1>
       <a href="<?php echo esc_url(site_url('/sok')); ?>" class="js-search-trigger site-header__search-trigger"><i class="fa fa-search" aria-hidden="true"></i></a>
       <i class="site-header__menu-trigger fa fa-bars" aria-hidden="true"></i>
       <div class="site-header__menu group">
